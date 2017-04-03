@@ -1,4 +1,13 @@
 {
+  "name": "expressworks-solutions",
+  "version": "0.0.1",
+  "description": "A set of solutions to the ExpressWorks workshop.",
+  "author": "Chrisna Aing <chrisna@chrisna.org> (https://github.com/ccrazy88)",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ccrazy88/expressworks-solutions.git"
+  },
+  "license": "MIT",
   "dependencies": {
     "express": "^4.15.2"
   },
